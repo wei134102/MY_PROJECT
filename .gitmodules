@@ -1,0 +1,8 @@
+[submodule "dongle"]
+	path = dongle
+	url = https://github.com/wei134102/OpenFIRE-DONGLE-ESP32.git
+	branch = main
+[submodule "gun"]
+	path = gun
+	url = https://github.com/wei134102/OpenFIRE-Firmware-ESP32.git
+	branch = test_wifi
